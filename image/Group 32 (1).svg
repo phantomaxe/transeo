@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 95 106" width="95" height="106">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-634 -883L806 -883L806 141L-634 141Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.txt0 { font-size: 12px;fill: #5c5c5c;font-family: "D MSans" } 
+		.txt1 { font-size: 25px;fill: #5c5c5c;font-family: "D MSans" } 
+		.shp2 { opacity: 0.102;fill: none;stroke: #009dff;stroke-width: 8 } 
+		.shp3 { opacity: 0.953;fill: none;stroke: #009dff;stroke-linecap:round;stroke-width: 8 } 
+	</style>
+	<g id="Page 3 Test Req" clip-path="url(#cp1)">
+		<g id="Group 32">
+			<text id="Submitting ACT " style="transform: matrix(1,0,0,1,1,103)" >
+				<tspan x="0" y="0" class="txt0">Submitting ACT</tspan>
+			</text>
+			<text id="53%" style="transform: matrix(1,0,0,1,19,52)" >
+				<tspan x="0" y="0" class="txt1">53%</tspan>
+			</text>
+			<path id="Ellipse 3" class="shp2" d="M43.47 85.97C19.97 85.97 0.97 66.98 0.97 43.47C0.97 19.97 19.97 0.97 43.47 0.97C66.97 0.97 85.97 19.97 85.97 43.47C85.97 66.98 66.97 85.97 43.47 85.97Z" />
+			<path id="Ellipse 4" class="shp3" d="M28.94 83.41C6.85 75.37 -4.5 51.02 3.54 28.94C11.57 6.85 35.92 -4.5 58.01 3.54C80.09 11.57 91.45 35.92 83.41 58.01C75.37 80.09 51.02 91.45 28.94 83.41Z" />
+		</g>
+	</g>
+</svg>

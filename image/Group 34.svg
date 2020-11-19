@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 275 42" width="275" height="42">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-1038 -888L402 -888L402 136L-1038 136Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.txt0 { font-size: 12px;fill: #5c5c5c;font-family: "D MSans" } 
+		.shp1 { opacity: 0.196;fill: #009dff } 
+		.shp2 { fill: #009dff } 
+	</style>
+	<g id="Page 3 Test Req" clip-path="url(#cp1)">
+		<g id="Group 34">
+			<text id="Average ACT Composite:32" style="transform: matrix(1,0,0,1,50,10)" >
+				<tspan x="0" y="0" class="txt0">Average ACT Composite:32</tspan>
+			</text>
+			<path id="Rectangle 41" class="shp1" d="M4 16L267 16L267 30L4 30L4 16Z" />
+			<path id="Rectangle 42" class="shp2" d="M4 16L245 16L245 30L4 30L4 16Z" />
+			<text id="0" style="transform: matrix(1,0,0,1,0,41)" >
+				<tspan x="0" y="0" class="txt0">0</tspan>
+			</text>
+			<text id="36" style="transform: matrix(1,0,0,1,260,41)" >
+				<tspan x="0" y="0" class="txt0">36</tspan>
+			</text>
+		</g>
+	</g>
+</svg>

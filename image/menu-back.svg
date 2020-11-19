@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 244 90" width="244" height="90">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-34 -273L1406 -273L1406 751L-34 751Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #f5f7fb } 
+	</style>
+	<g id="Page1 Overveiw" clip-path="url(#cp1)">
+		<g id="Group 6">
+			<path id="Rectangle" class="shp0" d="M0 44C0 29.64 11.64 18 26 18L227 18C236.39 18 244 10.39 244 1L244 1L244 90L244 90C244 78.95 235.05 70 224 70L26 70C11.64 70 0 58.36 0 44Z" />
+		</g>
+	</g>
+</svg>

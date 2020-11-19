@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 86 86" width="86" height="86">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-634 -883L806 -883L806 141L-634 141Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { opacity: 0.953;fill: none;stroke: #009dff;stroke-linecap:round;stroke-width: 8 } 
+	</style>
+	<g id="Page 3 Test Req" clip-path="url(#cp1)">
+		<g id="Group 32">
+			<path id="Ellipse 4" class="shp0" d="M28.94 83.41C6.85 75.37 -4.5 51.02 3.54 28.94C11.57 6.85 35.92 -4.5 58.01 3.54C80.09 11.57 91.45 35.92 83.41 58.01C75.37 80.09 51.02 91.45 28.94 83.41Z" />
+		</g>
+	</g>
+</svg>

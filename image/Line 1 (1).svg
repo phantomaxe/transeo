@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8 28" width="8" height="28">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-295 -506L1145 -506L1145 518L-295 518Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none;stroke: #000000;stroke-width: 5 } 
+	</style>
+	<g id="Page2 Key addmission" clip-path="url(#cp1)">
+		<path id="Line 1" class="shp0" d="M4 3L4 25L4 3Z" />
+	</g>
+</svg>
